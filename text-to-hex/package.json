@@ -1,0 +1,14 @@
+{
+  "name": "text-to-hex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "text-to-hex.js",
+  "scripts": {
+    "test": "node text-to-hex.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "to-hex": "^0.0.18"
+  }
+}
